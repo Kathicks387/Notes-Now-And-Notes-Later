@@ -1,0 +1,25 @@
+{
+  "name": "notes-now-and-notes-later",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kathicks387/Notes-Now-And-Notes-Later.git"
+  },
+  "author": "Katrina R. Hicks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kathicks387/Notes-Now-And-Notes-Later/issues"
+  },
+  "homepage": "https://github.com/Kathicks387/Notes-Now-And-Notes-Later#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "util": "^0.12.3",
+    "uuid": "^1.4.2"
+  }
+}
